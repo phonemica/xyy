@@ -1,2 +1,1 @@
-# xyy
-repository for public website info
+This repository is not yet available to the public.
